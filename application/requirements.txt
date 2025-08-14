@@ -1,0 +1,12 @@
+streamlit
+Pillow
+streamlit-option-menu
+streamlit==1.31.0
+pandas==2.0.3
+Pillow==10.0.0
+hashlib
+re
+datetime
+json
+base64
+io
